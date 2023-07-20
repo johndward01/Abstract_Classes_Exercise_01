@@ -9,5 +9,7 @@
 // TODO: Create 3 classes that inherit from the Document class: Word, PDF, and TextFile
 //       and implement the methods
 
-// TODO: Create 1 instance of each class, and call the 3 methods foreach
+
+
+// TODO: Create 1 instance of each class, and call the 3 methods foreach creatively
 
